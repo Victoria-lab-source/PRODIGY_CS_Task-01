@@ -25,6 +25,3 @@ elif action == 'd':
 else:
     print("any choice. Use 'e' or 'd'.")
     
-
-
- 
